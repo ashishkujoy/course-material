@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev Setup/Deno.md",
+                "file": "Filesystem/Block Storage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deno"
+              "title": "Block Storage"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev Setup/Deno.md",
+                "file": "Javascript/Fundamentals/Basic Conditions in JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Deno"
+              "title": "Backlinks for Basic Conditions in JavaScript"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev Setup/Deno.md",
+                "file": "Javascript/Fundamentals/Basic Conditions in JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Deno"
+              "title": "Outgoing links from Basic Conditions in JavaScript"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev Setup/Deno.md",
+                "file": "Javascript/Fundamentals/Basic Conditions in JavaScript.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Deno"
+              "title": "Outline of Basic Conditions in JavaScript"
             }
           }
         ]
@@ -170,8 +170,17 @@
   },
   "active": "29b5f630862c7192",
   "lastOpenFiles": [
-    "Dev Setup/Homebrew.md",
+    "Javascript/Fundamentals/Basic Conditions in JavaScript.md",
+    "Filesystem/Block Storage.md",
+    "Filesystem",
+    "Javascript/Fundamentals/Basic Arithmetic Expressions.md",
+    "Javascript/Fundamentals/JavaScript Values and Literals.md",
+    "Javascript/Fundamentals/REPL.md",
+    "Javascript/Fundamentals/Values And Literals.md",
     "Dev Setup/Deno.md",
+    "Javascript/Fundamentals",
+    "Javascript",
+    "Dev Setup/Homebrew.md",
     "Dev Setup/Terminal.md",
     "Welcome.md",
     "Dev Setup"
